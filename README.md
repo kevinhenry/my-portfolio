@@ -30,9 +30,9 @@ Estimate of time needed to complete: _4 hours____
 
 Start time: _2:00 pm____
 
-Finish time: _____
+Finish time: _6:30 pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _4.5 hours____
 
 Why are we implementing this feature?
 

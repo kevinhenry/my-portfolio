@@ -19,9 +19,9 @@ import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
 import background from "assets/img/kevin/linkedinbg.jpeg";
-import hyprTypr from "assets/img/kevin/streak 1s and 0s.jpg";
+import hyprTypr from "assets/img/kevin/HyprTypr Plank.jpg";
 // import promo1 from "assets/img/theme/promo-1.png";
-import cardImg from "assets/img/theme/img-1-1200x1000.jpg";
+import cardImg from "assets/img/kevin/Kevin and Krypton.jpg";
 // import ill2 from "assets/img/ill/ill-2.svg";
 // import team1 from "assets/img/theme/team-1-800x800.jpg";
 // import team2 from "assets/img/theme/team-2-800x800.jpg";
