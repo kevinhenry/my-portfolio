@@ -23,7 +23,8 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "assets/img/theme/team-4-800x800.jpg";
+import profile from "assets/img/kevin/kevinhenry.jpg";
+import background from "assets/img/kevin/linkedinbg.jpeg";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -38,7 +39,9 @@ class Profile extends React.Component {
         <main className="profile-page" ref="main">
           <section className="section-profile-cover section-shaped my-0">
             {/* Circles background */}
-            <div className="shape shape-style-1 shape-default alpha-4">
+            {/* <div className="shape shape-style-1 shape-default alpha-4"> */}
+            <div>
+              <img src={background}/>
               <span />
               <span />
               <span />
@@ -88,7 +91,7 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
+                          href="https://www.linkedin.com/in/skhenry/"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
@@ -97,7 +100,7 @@ class Profile extends React.Component {
                         <Button
                           className="float-right"
                           color="default"
-                          href="#pablo"
+                          href="mailto:kevinhenry@live.com"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
@@ -108,47 +111,44 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading"><i class="fas fa-code"></i></span>
+                          <span className="description">Dev</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">19</span>
+                          <span className="description">Counties Visited</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">3:3</span>
+                          <span className="description">Dogs:Fish</span>
                         </div>
                       </div>
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Kevin Henry{" "}
+                      <span className="font-weight-light"> </span>
+                      {/* <span className="font-weight-light">, 27</span> */}
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Seattle, Washington
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Software Developer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      CodeFellows 2021
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          Customer-focused Project Manager leveraging my operations and program management experience, technical acumen, and passion for our nation's veterans and military spouses to empower teams and people to succeed.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
