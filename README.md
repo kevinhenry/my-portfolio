@@ -2,15 +2,17 @@
 
 ## Lab 5
 
+Deployed Site URL: https://dreamy-snyder-8c6131.netlify.app
+
 ## Feature 1: Deployment
 
-Estimate of time needed to complete: _2 hours____
+Estimate of time needed to complete: _.5 hours____
 
-Start time: _9:55 pm____
+Start time: _1:00 pm____
 
-Finish time: _____
+Finish time: _1:20 pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _20____
 
 Why are we implementing this feature?
 
@@ -23,6 +25,14 @@ You will need to create a new repository to complete this task.
 Add the URL to your live, deployed site to your README.
 
 ## Feature #2: Modify the contents
+
+Estimate of time needed to complete: _4 hours____
+
+Start time: _2:00 pm____
+
+Finish time: _____
+
+Actual time needed to complete: _____
 
 Why are we implementing this feature?
 
@@ -61,7 +71,6 @@ Throughout the site, change the content and images to reflect your personal pref
 Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
-
 
  ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-design-system-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-design-system-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-design-system-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-design-system-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
